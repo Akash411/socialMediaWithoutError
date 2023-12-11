@@ -1,0 +1,20 @@
+/* Footer.css */
+.footer {
+    background-color: #f0f2f5;
+    padding: 4px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* height: 40px; */
+  }
+  
+  .footer-item {
+    text-align: center;
+    font-size: 24px;
+    padding: 5px 0;
+  }
+  @media screen and (max-width: 768px) {
+    .footer {
+      display: block; /* Show footer on mobile screens */
+    }
+  }

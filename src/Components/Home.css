@@ -1,0 +1,8 @@
+.site-layout{
+    margin-left: 200px;
+}
+@media screen and (max-width: 768px) {
+    .site-layout{
+        margin-left: 0;
+    }
+  }
